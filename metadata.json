@@ -1,0 +1,6 @@
+{
+  "name": "SEVA 1 - Government of India Portal",
+  "description": "Unified citizen services and public welfare portal by the Government of India. Access over 1,400+ public services, government schemes, document vault, application tracking, and grievances redressal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
